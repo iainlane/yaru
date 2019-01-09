@@ -1,4 +1,4 @@
-yaru-theme (19.04) UNRELEASED; urgency=medium
+yaru-theme (19.04) disco; urgency=medium
 
   [ Carlo Lobrano ]
   * dark gtk-2.0
@@ -243,7 +243,7 @@ yaru-theme (19.04) UNRELEASED; urgency=medium
   [ madsrh ]
   * Amplified sounds
 
- -- Carlo Lobrano <c.lobrano@gmail.com>  Tue, 08 Jan 2019 14:06:16 +0100
+ -- Carlo Lobrano <c.lobrano@gmail.com>  Wed, 09 Jan 2019 11:59:45 +0000
 
 yaru-theme (18.10.7) cosmic; urgency=medium
 
